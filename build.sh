@@ -2,7 +2,7 @@
 
 SERVICE=node-browsers-awscli
 MY_ACCOUNT=thanhlcm90
-VERSION=10.23.0
+VERSION=14.17.5
 
 docker rm -f $SERVICE
 docker rmi -f $MY_ACCOUNT/$SERVICE

@@ -1,4 +1,4 @@
-ARG VERSION=10.23.0
+ARG VERSION=14.17.5
 FROM thanhlcm90/nodejs-builder:$VERSION
 LABEL maintainer="Thanh Le <thanhlcm90@gmail.com>"
 
